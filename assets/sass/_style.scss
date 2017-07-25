@@ -1,0 +1,65 @@
+//estilos header
+header{
+    img{
+        width: 20%;
+    }
+   
+}
+ .links{
+        display: flex;
+        ul, li{
+            padding: 25px;
+            margin-left: 10%;
+           
+        }
+        a{
+             color: gray;
+        }
+    }
+
+    /*Green SEction*/
+    .green-section{
+        img{
+            width: 100%;
+        }
+        
+    }
+    .divider{
+            border: $divider;
+        }
+
+    .newsfeed{
+         .design{
+           width: 100%;
+       }
+       
+        }
+
+      
+     /*THIRD SECTION*/
+        
+    .third-section{
+        img{
+        width: 100%; 
+        }
+    }
+
+    /*Footer*/
+    footer{
+        
+        h6{
+            font-weight: bold;
+            
+        }
+        p,a{
+            color: $footer-font;
+        }
+        .divider-gray{
+            border: 3px solid #efefef;
+        
+        }
+        .footer-final{
+            padding-top: 25px;
+
+        }
+    }

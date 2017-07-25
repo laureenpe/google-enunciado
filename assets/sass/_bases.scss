@@ -1,58 +1,7 @@
 //Estilo a nuestra página utilizando las variables que declaramos en nuestro archivo _variables.scss
 
-*{
-    font-family: $body_font;
-}
 body{
     background-color: white;
-    font: $body_font;
-   
-    
+    font: $body_font;   
 }
-header{
-    img{
-        width: 20%;
-    }
-   
-}
- .links{
-        display: flex;
-        ul, li{
-            padding: 25px;
-            margin-left: 10%;
-           
-        }
-        a{
-             color: gray;
-        }
-    }
 
-    /*Green SEction*/
-    .green-section{
-        img{
-            width: 100%;
-        }
-        
-    }
-    .divider{
-            background-color: $divider;
-        }
-
-    .newsfeed{
-         .design{
-           width: 100%;
-       }
-       
-        }
-
-      
-     /*THIRD SECTION*/
-     .third-section{
-        
-     }
-     
-.third-section{
-  img{
-  width: 100%; 
-  }
-}
