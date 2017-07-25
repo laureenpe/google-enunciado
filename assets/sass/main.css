@@ -6868,6 +6868,9 @@ footer .divider-gray {
   border: 3px solid #efefef; }
 footer .footer-final {
   padding-top: 25px; }
+footer .text {
+  padding-top: 50px;
+  padding-bottom: 20px; }
 
 body {
   background-color: white;
